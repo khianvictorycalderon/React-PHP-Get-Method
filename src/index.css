@@ -1,0 +1,9 @@
+body {
+    color:rgba(244, 244, 244, 0.975);
+    background:rgb(0, 0, 0);
+}
+
+.center-form {
+    margin-top: 40vh;
+    text-align:center;
+}
